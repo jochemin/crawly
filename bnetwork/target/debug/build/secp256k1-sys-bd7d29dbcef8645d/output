@@ -1,0 +1,259 @@
+OUT_DIR = Some(C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\build\secp256k1-sys-bd7d29dbcef8645d\out)
+OPT_LEVEL = Some(0)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\deps;C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug;C:\Users\jarenillas\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft Group Policy\Windows 10 October 2022 Update (22H2)\PolicyDefinitions\;C:\Program Files\Amazon\AWSCLIV2\;C:\temp\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\policydefinitions\;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Users\jarenillas\.cargo\bin;C:\Users\jarenillas\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;C:\Users\jarenillas\AppData\Local\GitHubDesktop\bin;C:\Users\jarenillas\AppData\Local\Programs\Ollama;C:\Users\jarenillas\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jarenillas\AppData\Local\Pandoc\;C:\Users\administra\AppData\Local\Markdown Monster;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(true)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+CARGO_ENCODED_RUSTFLAGS = Some()
+OUT_DIR = Some(C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\build\secp256k1-sys-bd7d29dbcef8645d\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+lax_der_parsing.c
+secp256k1.c
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\util.h(276): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\util.h(289): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(40): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(41): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(42): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(46): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(47): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(48): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(52): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(53): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(54): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(70): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\assumptions.h(71): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modinv32_impl.h(198): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modinv32_impl.h(288): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modinv32_impl.h(289): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modinv32_impl.h(290): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modinv32_impl.h(300): warning C4244: '=': conversi¢n de 'uint32_t' a 'uint16_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\field_10x26_impl.h(789): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\field_10x26_impl.h(1063): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\field_10x26_impl.h(1222): warning C4244: '=': conversi¢n de 'const uint64_t' a 'int32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(135): warning C4244: '=': conversi¢n de 'uint64_t' a 'int'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(184): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(184): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(184): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(185): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(185): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(185): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(186): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(186): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(186): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(187): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(187): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(187): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(188): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(188): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(188): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(189): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(189): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(189): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(190): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(190): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(190): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(191): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(191): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(191): warning C4244: '=': conversi¢n de 'const uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(341): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(344): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(345): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(348): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(349): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(350): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(353): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(354): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(355): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(356): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(359): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(360): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(361): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(362): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(366): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(367): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(368): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(369): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(373): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(374): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(375): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(376): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(380): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(381): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(382): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(383): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(386): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(387): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(388): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(391): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(392): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(395): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(406): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(409): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(410): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(413): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(414): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(415): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(418): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(419): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(420): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(421): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(424): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(425): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(426): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(427): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(431): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(432): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(433): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(437): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(438): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(442): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(468): warning C4244: 'funci¢n': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(476): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(478): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(479): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(481): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(482): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(483): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(485): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(486): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(487): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(488): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(490): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(491): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(492): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(493): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(494): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(496): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(497): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(498): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(499): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(500): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(501): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(503): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(504): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(505): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(506): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(507): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(508): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(509): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(511): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(512): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(513): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(514): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(515): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(516): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(517): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(518): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(520): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(521): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(522): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(523): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(524): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(525): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(526): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(528): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(529): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(530): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(531): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(532): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(533): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(535): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(536): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(537): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(538): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(539): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(541): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(542): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(543): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(544): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(546): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(547): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(548): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(550): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(551): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\scalar_8x32_impl.h(553): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult.h(20): warning C4132: 'SECP256K1_ECMULT_CONTEXT_PREALLOCATED_SIZE': se debe inicializar el objeto const
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult_impl.h(736): warning C4267: '=': conversi¢n de 'size_t' a 'int'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult_impl.h(901): warning C4334: '<<': el resultado del desplazamiento de 32 bits se convirti¢ impl¡citamente en 64 bits (¨quer¡a un desplazamiento de 64 bits?)
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult_gen.h(38): warning C4132: 'SECP256K1_ECMULT_GEN_CONTEXT_PREALLOCATED_SIZE': se debe inicializar el objeto const
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\hash_impl.h(267): warning C4267: 'inicializando': conversi¢n de 'size_t' a 'int'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecdsa_impl.h(197): warning C4267: '=': conversi¢n de 'size_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecdsa_impl.h(199): warning C4267: '=': conversi¢n de 'size_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecdsa_impl.h(202): warning C4267: '=': conversi¢n de 'size_t' a 'unsigned char'; posible p‚rdida de datos
+depend/secp256k1/src/secp256k1.c(213): warning C4127: la expresi¢n condicional es constante
+depend/secp256k1/src/secp256k1.c(232): warning C4127: la expresi¢n condicional es constante
+depend/secp256k1/src/secp256k1.c(314): warning C4127: la expresi¢n condicional es constante
+depend/secp256k1/src/secp256k1.c(327): warning C4127: la expresi¢n condicional es constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modules/recovery/main_impl.h(14): warning C4127: la expresi¢n condicional es constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modules/recovery/main_impl.h(28): warning C4127: la expresi¢n condicional es constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modules/recovery/main_impl.h(35): warning C4244: '=': conversi¢n de 'int' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\modules/schnorrsig/main_impl.h(48): warning C4295: 'bip340_algo16': la matriz es demasiado peque¤a para incluir un car cter nulo final
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult_impl.h(537) : warning C4706: asignaci¢n en la expresi¢n condicional
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult_impl.h(541) : warning C4706: asignaci¢n en la expresi¢n condicional
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult_impl.h(546) : warning C4706: asignaci¢n en la expresi¢n condicional
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.4.2\depend\secp256k1\src\ecmult_impl.h(550) : warning C4706: asignaci¢n en la expresi¢n condicional
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rustc-link-lib=static=secp256k1
+cargo:rustc-link-search=native=C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\build\secp256k1-sys-bd7d29dbcef8645d\out
