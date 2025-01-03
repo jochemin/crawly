@@ -1,0 +1,196 @@
+OUT_DIR = Some(C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\build\secp256k1-sys-efbc1ba48e26a01c\out)
+OPT_LEVEL = Some(0)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\deps;C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug;C:\Users\jarenillas\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft Group Policy\Windows 10 October 2022 Update (22H2)\PolicyDefinitions\;C:\Program Files\Amazon\AWSCLIV2\;C:\temp\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\policydefinitions\;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Users\jarenillas\.cargo\bin;C:\Users\jarenillas\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;C:\Users\jarenillas\AppData\Local\GitHubDesktop\bin;C:\Users\jarenillas\AppData\Local\Programs\Ollama;C:\Users\jarenillas\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jarenillas\AppData\Local\Pandoc\;C:\Users\administra\AppData\Local\Markdown Monster;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(true)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+CARGO_ENCODED_RUSTFLAGS = Some()
+OUT_DIR = Some(C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\build\secp256k1-sys-efbc1ba48e26a01c\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+OUT_DIR = Some(C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\build\secp256k1-sys-efbc1ba48e26a01c\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+lax_der_parsing.c
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\include\secp256k1.h(155): warning C4005: 'SECP256K1_API': redefinici¢n de macro
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\include\secp256k1.h(155): note: 'SECP256K1_API' declarado previamente en la l¡nea de comandos
+depend/secp256k1/contrib/lax_der_parsing.c(10): warning C4273: 'rustsecp256k1_v0_10_0_ecdsa_signature_parse_compact': vinculaci¢n de DLL incoherente
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\include\secp256k1.h(467): note: vea la definici¢n anterior de 'rustsecp256k1_v0_10_0_ecdsa_signature_parse_compact'
+precomputed_ecmult_gen.c
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\../include/secp256k1.h(155): warning C4005: 'SECP256K1_API': redefinici¢n de macro
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\../include/secp256k1.h(155): note: 'SECP256K1_API' declarado previamente en la l¡nea de comandos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(265): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(278): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(327): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(328): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(329): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(347): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(348): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(349): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(350): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(351): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(352): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(353): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+precomputed_ecmult.c
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\../include/secp256k1.h(155): warning C4005: 'SECP256K1_API': redefinici¢n de macro
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\../include/secp256k1.h(155): note: 'SECP256K1_API' declarado previamente en la l¡nea de comandos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(265): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(278): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(327): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(328): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(329): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(347): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(348): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(349): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(350): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(351): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(352): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(353): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+secp256k1.c
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(265): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(278): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(327): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(328): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(329): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(347): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(348): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(349): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(350): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(351): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(352): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\util.h(353): warning C4244: '=': conversi¢n de 'uint64_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(43): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(44): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(45): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(49): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(50): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(51): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(55): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(56): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(57): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(73): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\assumptions.h(74): warning C4310: la conversi¢n trunca el valor constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(188): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(267): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(268): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(269): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(279): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(289): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(290): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(290): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(370): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(380): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(381): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modinv64_impl.h(381): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\field_5x52_impl.h(372): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\scalar_4x64_impl.h(118): warning C4244: '=': conversi¢n de 'uint64_t' a 'int'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\scalar_4x64_impl.h(215): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\scalar_4x64_impl.h(623): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\scalar_4x64_impl.h(643): warning C4244: '=': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\scalar_4x64_impl.h(663): warning C4244: 'funci¢n': conversi¢n de 'uint64_t' a 'unsigned int'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecmult_impl.h(518): warning C4267: '=': conversi¢n de 'size_t' a 'int'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecmult_const_impl.h(251): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecmult_const_impl.h(262): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\hash_impl.h(151): warning C4244: 'funci¢n': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\hash_impl.h(152): warning C4244: 'funci¢n': conversi¢n de 'uint64_t' a 'uint32_t'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\hash_impl.h(261): warning C4267: 'inicializando': conversi¢n de 'size_t' a 'int'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecdsa_impl.h(185): warning C4267: '=': conversi¢n de 'size_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecdsa_impl.h(187): warning C4267: '=': conversi¢n de 'size_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecdsa_impl.h(190): warning C4267: '=': conversi¢n de 'size_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\int128_struct_impl.h(85): warning C4244: 'funci¢n': conversi¢n de 'unsigned int' a 'unsigned char'; posible p‚rdida de datos
+depend/secp256k1/src/secp256k1.c(194): warning C4127: la expresi¢n condicional es constante
+depend/secp256k1/src/secp256k1.c(213): warning C4127: la expresi¢n condicional es constante
+depend/secp256k1/src/secp256k1.c(295): warning C4127: la expresi¢n condicional es constante
+depend/secp256k1/src/secp256k1.c(308): warning C4127: la expresi¢n condicional es constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules\ecdh\../../../include/secp256k1_ecdh.h(30): warning C4132: 'rustsecp256k1_v0_10_0_ecdh_hash_function_sha256': se debe inicializar el objeto const
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules\ecdh\../../../include/secp256k1_ecdh.h(34): warning C4132: 'rustsecp256k1_v0_10_0_ecdh_hash_function_default': se debe inicializar el objeto const
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules/recovery/main_impl.h(14): warning C4127: la expresi¢n condicional es constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules/recovery/main_impl.h(28): warning C4127: la expresi¢n condicional es constante
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules/recovery/main_impl.h(35): warning C4244: '=': conversi¢n de 'int' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules\schnorrsig\../../../include/secp256k1_schnorrsig.h(64): warning C4132: 'rustsecp256k1_v0_10_0_nonce_function_bip340': se debe inicializar el objeto const
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules/schnorrsig/main_impl.h(48): warning C4295: 'bip340_algo': la matriz es demasiado peque¤a para incluir un car cter nulo final
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules\ellswift\../../../include/secp256k1_ellswift.h(75): warning C4132: 'rustsecp256k1_v0_10_0_ellswift_xdh_hash_function_prefix': se debe inicializar el objeto const
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules\ellswift\../../../include/secp256k1_ellswift.h(83): warning C4132: 'rustsecp256k1_v0_10_0_ellswift_xdh_hash_function_bip324': se debe inicializar el objeto const
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules/ellswift/main_impl.h(316): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules/ellswift/main_impl.h(317): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\modules/ellswift/main_impl.h(318): warning C4244: '=': conversi¢n de 'uint32_t' a 'unsigned char'; posible p‚rdida de datos
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecmult_impl.h(322) : warning C4706: asignaci¢n en la expresi¢n condicional
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecmult_impl.h(326) : warning C4706: asignaci¢n en la expresi¢n condicional
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecmult_impl.h(331) : warning C4706: asignaci¢n en la expresi¢n condicional
+C:\Users\jarenillas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.10.1\depend\secp256k1\src\ecmult_impl.h(335) : warning C4706: asignaci¢n en la expresi¢n condicional
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rustc-link-lib=static=secp256k1
+cargo:rustc-link-search=native=C:\Users\jarenillas\crawly\crawly\bnetwork\target\debug\build\secp256k1-sys-efbc1ba48e26a01c\out
