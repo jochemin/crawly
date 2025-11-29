@@ -1,0 +1,88 @@
+# Rust
+/backend/target/
+/backend/Cargo.lock
+/backend/**/*.rs.bk
+/backend/.sqlx/
+
+# Environment
+.env
+.env.local
+/backend/.env
+
+# Database
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Node / React Native
+/mobile/node_modules/
+/mobile/.expo/
+/mobile/.expo-shared/
+/mobile/npm-debug.log*
+/mobile/yarn-debug.log*
+/mobile/yarn-error.log*
+
+# Android
+/mobile/android/build/
+/mobile/android/app/build/
+/mobile/android/.gradle/
+/mobile/android/local.properties
+*.apk
+*.aab
+/mobile/android/*.keystore
+/mobile/android/gradle.properties
+/mobile/android/app/src/main/assets/*.bundle
+/mobile/android/app/src/main/assets/*.map
+
+# iOS
+/mobile/ios/Pods/
+/mobile/ios/build/
+*.ipa
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+*.txt
+!requirements.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Reports (keep in artifacts, not in repo)
+*.md
+!README.md
+!**/README.md
+!LICENSE.md
+!CONTRIBUTING.md
+!docs/*.md
+
+# Data files
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!app.json
+
+# GeoIP databases
+*.mmdb
+
+# Build artifacts
+/target/
+/dist/
+/build/
