@@ -42,7 +42,7 @@ For geolocation enrichment to work, the application expects the MaxMind database
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crawly.git
+git clone https://github.com/jochemin/crawly.git
 cd crawly/backend
 
 # Configure Environment
