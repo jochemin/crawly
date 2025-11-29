@@ -86,3 +86,6 @@ venv/
 /target/
 /dist/
 /build/
+
+# Sensitive Scripts
+generate-aab.ps1
